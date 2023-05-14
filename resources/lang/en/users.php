@@ -1,0 +1,30 @@
+<?php
+
+return[
+    'create' => 'Create',
+    'edit' => 'Edit',
+    'single' => 'User',
+    'first_name' => 'First Name',
+    'last_name' => 'Last Name',
+    'blood_type' => 'Blood Type',
+    'email' => 'Email',
+    'password' => 'Password',
+    'password_confirmation' => 'Password Confirmation',
+    'role' => 'Role',
+    'admin' => 'Admin',
+    'client' => 'Client',
+    'active' => 'Active',
+    'yes' => 'Yes',
+    'no' => 'No',
+    'country' => 'Country',
+    'select_country' => 'Select Country',
+    'city' => 'City',
+    'select_city' => 'Select City',
+    'region' => 'Region',
+    'select_region' => 'Select Region',
+    'username' => 'User Name',
+    'customer_info' => 'Customer Information',
+    'contact_info' => 'Contact Information',
+    'personal_info' => 'Personal Information',
+    'show' => 'Show'
+];
